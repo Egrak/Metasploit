@@ -1,2 +1,17 @@
 # Metasploit
-Install-Metasploit-Auto  Install Metasploit Auto for Termux  Commands :  » git clone https://github.com/MrHolako/Install-Metasploit-Auto.git  » ls  » cd Install-Metasploit-Auto  » chmod +x Install-Metasploit.sh  » bash Install-Metasploit.sh
+
+Install-Metasploit
+
+Install Metasploit for Termux 
+
+Commands :  
+
+git clone https://github.com/Egrak/Metasploit.git
+
+ls  
+
+cd Metasploit
+
+chmod +x Install-Metasploit.sh
+
+bash Install-Metasploit.sh
